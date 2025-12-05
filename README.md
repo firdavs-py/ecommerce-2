@@ -2,5 +2,5 @@
 A Responsive Ecommerce Website Project With HTML CSS JavaScript
 
 [View Demo](https://billalben.github.io/evara-ecommerce/)
-![Anon Desktop Demo](./1.png "Desktop Demo")
-![Anon Mobile Demo](./2.png "Mobile Demo")
+![ Desktop Demo](./1.png "Desktop Demo")
+
